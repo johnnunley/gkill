@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # This file is part of gkill.
 # 
 # gkill is free software: you can redistribute it and/or modify
@@ -12,8 +14,6 @@
 # 
 # You should have received a copy of the GNU General Public License
 # along with gkill.  If not, see <http://www.gnu.org/licenses/>.
-
-#!/usr/bin/env python
 
 
 from PyQt4.QtCore import *
